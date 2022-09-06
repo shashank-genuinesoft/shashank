@@ -1,15 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5e6719d.css",
-    "main.js": "/static/js/main.eb09487b.js",
+    "main.css": "/static/css/main.08411d6d.css",
+    "main.js": "/static/js/main.c1678746.js",
     "static/js/787.b9fc1b07.chunk.js": "/static/js/787.b9fc1b07.chunk.js",
+    "static/media/Vector.svg": "/static/media/Vector.d37b5fda34f3afe95a2850c5002ea945.svg",
+    "static/media/education.png": "/static/media/education.29c3587b02b105df22b4.png",
+    "static/media/localguide.gif": "/static/media/localguide.e26297ddb1866fabed6a.gif",
+    "static/media/hackathon1.svg": "/static/media/hackathon1.83e63808d637feabf365.svg",
+    "static/media/mongo.png": "/static/media/mongo.365daebc8cd027f03033.png",
+    "static/media/gtu.png": "/static/media/gtu.66806c1e7dadd62c4c53.png",
+    "static/media/ino.png": "/static/media/ino.adcd3743af4c9c5e57b5.png",
+    "static/media/harikrushn.jpg": "/static/media/harikrushn.4b02c8a6538ead4fbf0f.jpg",
+    "static/media/ssgandhy.png": "/static/media/ssgandhy.35fb38c10a33301bb011.png",
+    "static/media/ssec.png": "/static/media/ssec.7df4d3c45357a55b4f10.png",
+    "static/media/postman.jpg": "/static/media/postman.1356637eba0112e97b69.jpg",
+    "static/media/localguide.png": "/static/media/localguide.adec02396cccb07ba524.png",
+    "static/media/postman.png": "/static/media/postman.01960bbc426bf10ad378.png",
+    "static/media/efi.png": "/static/media/efi.0ed72ded7dedabb8c3ab.png",
+    "static/media/flutter.png": "/static/media/flutter.9a3ca36c54d64801b355.png",
+    "static/media/github.png": "/static/media/github.237e2214562c441f67b2.png",
+    "static/media/gdg.png": "/static/media/gdg.c8b65793b47f9c4c2f21.png",
+    "static/media/cwoc.png": "/static/media/cwoc.d8ba3957097e6ca71d91.png",
+    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.547075a751cc15673246.jpg",
+    "static/media/skillenza.png": "/static/media/skillenza.f330cc18db6fa0eccba4.png",
+    "static/media/wrighter.jpg": "/static/media/wrighter.0a6efd88c7795e04684b.jpg",
+    "static/media/valora.jpg": "/static/media/valora.565bf3561d07549d924d.jpg",
+    "static/media/nightowls.jpg": "/static/media/nightowls.39ed4082f2bf5b143a62.jpg",
+    "static/media/iit.png": "/static/media/iit.6c5ad18edeac1ae28b57.png",
+    "static/media/mlh.png": "/static/media/mlh.4d13a282ad1e2e05cd53.png",
+    "static/media/buld.jpg": "/static/media/buld.55444b9789a64f32e2e5.jpg",
+    "static/media/mlh-logo.svg": "/static/media/mlh-logo.d48e27dc116c04b190de.svg",
     "index.html": "/index.html",
-    "main.f5e6719d.css.map": "/static/css/main.f5e6719d.css.map",
-    "main.eb09487b.js.map": "/static/js/main.eb09487b.js.map",
+    "main.08411d6d.css.map": "/static/css/main.08411d6d.css.map",
+    "main.c1678746.js.map": "/static/js/main.c1678746.js.map",
     "787.b9fc1b07.chunk.js.map": "/static/js/787.b9fc1b07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5e6719d.css",
-    "static/js/main.eb09487b.js"
+    "static/css/main.08411d6d.css",
+    "static/js/main.c1678746.js"
   ]
 }
