@@ -11,9 +11,10 @@ import {
 } from "react-router-dom";
 function App() {
   const [theme, setTheme] = useState(localStorage.getItem("theme") || "dark");
+  console.log(themes[theme].background)
   return (
     <Router>
-      <div>
+      <div style={{ backgroundColor: themes[theme].background }} >
         <NavBar theme={themes[theme]} setTheme={setTheme} />
         <Routes>
        

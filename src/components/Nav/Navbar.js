@@ -102,17 +102,6 @@ function NavBar(props) {
             </li>
             <li>
               <NavLink
-                className="xp"
-                to="/experience"
-                tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
-                style={{ borderRadius: 5, color: theme.text }}
-              >
-                Experience
-              </NavLink>
-            </li>
-            <li>
-              <NavLink
                 className="projects"
                 to="/projects"
                 tag={Link}

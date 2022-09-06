@@ -15,12 +15,13 @@ const lightTheme = {
     imageClothes: "#dce4f2",
     avatarMisc: "#e9ecf2",
     avatarShoes: "#ccd2e3",
+    background:"rgb(220 229 241 / 62%)",
   };
   
   const darkTheme = {
     name: "dark",
     body: "#1D1D1D",
-    text: "#ab0404",
+    text: "#FFFFFF",
     dark: "#000000",
     secondaryText: "#8D8D8D",
     accentColor: "rgb(81 220 138)",
@@ -32,6 +33,7 @@ const lightTheme = {
     imageClothes: "#000000",
     avatarMisc: "#212121",
     avatarShoes: "#2B2B2B",
+    background:"#1d1d1d",
   };
   
   export const themes = { light: lightTheme, dark: darkTheme };

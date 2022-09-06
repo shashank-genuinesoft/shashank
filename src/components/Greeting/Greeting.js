@@ -25,7 +25,7 @@ export default function Greeting(props) {
         <div className="greeting-main">
           <div className="greeting-text-div">
             <div>
-              <h1 className="greeting-text">{greeting.title}  <span className="wave" role="img" aria-labelledby="wave">
+              <h1  style={{ color: theme.secondaryText }} className="greeting-text">{greeting.title}  <span className="wave" role="img" aria-labelledby="wave">
               {greeting.hand}
                 </span></h1>
               <p
