@@ -10,8 +10,6 @@ function Home(props) {
             <Greeting theme={props.theme} />
             <Education theme={props.theme} />
             <Certifications theme={props.theme} />
-           
-
             </>
     );
 
